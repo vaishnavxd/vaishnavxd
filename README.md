@@ -37,8 +37,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavx&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=vaishnavx&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavxd&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=vaishnavxd&theme=tokyonight" height="160"/>
 </div>
 
 ---
@@ -46,7 +46,7 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavx&theme=dracula&margin-w=15&no-bg=true&title=Stars,Commits,Followers,Repositories,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavxd&theme=dracula&margin-w=15&no-bg=true&title=Stars,Commits,Followers,Repositories,PullRequest" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavx&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavxd&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
