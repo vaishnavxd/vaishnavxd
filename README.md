@@ -1,64 +1,68 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey+I'm+Vaishnav+aka+Argue!;Code.+Create.+Repeat.;18+y%2Fo+Developer+%7C+Night+Thinker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4BC9F3&center=true&vCenter=true&width=500&lines=Hey+I'm+Vaishnav!;Full-Stack+Developer;Always+Learning+%26+Building" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=Status&message=Always%20Learning&color=blueviolet&style=for-the-badge&logo=typescript" />
-  <img src="https://komarev.com/ghpvc/?username=vaishnavdounde65&style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/github/followers/vaishnavdounde65?style=for-the-badge&color=ff69b4" />
+  <img src="https://img.shields.io/static/v1?label=Status&message=Improving+Everyday&color=blue&style=for-the-badge&logo=typescript" />
+  <img src="https://komarev.com/ghpvc/?username=vaishnavxd&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/followers/vaishnavxd?style=for-the-badge&color=ff69b4" />
 </div>
 
 ---
 
-<h2 align="center">🧠 Who Am I?</h2>
+<h2 align="center">🧠 About Me</h2>
 
+- Full-stack developer focused on building reliable products  
+- Self-taught, fast-learning, and obsessed with clean execution  
+- Exploring backend systems, automation, bots, and scalable web apps  
+- Interested in efficient engineering, design consistency, and smart tooling  
 
-- "Introvert with code in my head and verses in my heart."
+---
 
-    💻 Self-taught full-stack explorer
-    🖋️ Writer of Shayaris & Stories
-    🌐 Currently building the web, bots, and maybe the future
+<h2 align="center">🛠️ Tech Stack</h2>
 
-🌟 I believe in:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,cs,firebase,nodejs,express,git,github" />
+</p>
 
-    Making things that feel magical
+#### Currently learning & improving in:
+- Backend Development (Node.js, Express, Firebase)  
+- App Development (Android soon)  
+- Automation & tooling  
+- Motion & visual editing (After Effects)
 
-    Consistent small progress
+---
 
-    Quietly building cool things that speak for themselves
+<h2 align="center">📊 GitHub Stats</h2>
 
-🔗 My cringe side → [Vaishnav's Verse](https://verse.vaishnav.site) <br>
-🔧 Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,cs,firebase,nodejs" /> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavx&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=vaishnavx&theme=tokyonight" height="160"/>
+</div>
 
-    Currently diving deeper into:
+---
 
-        Backend Dev (Node, Express, Firebase)
+<h2 align="center">🏆 Achievements</h2>
 
-        App Dev (Android soon)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavx&theme=dracula&margin-w=15&no-bg=true&title=Stars,Commits,Followers,Repositories,PullRequest" />
+</p>
 
-        Visual Editing (After Effects)
+---
 
-        Staying off YouTube when I should be working 😵‍💫
+<h2 align="center">📈 Contribution Graph</h2>
 
-📈 Stats That Matter
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaishnavdounde65&show_icons=true&theme=tokyonight&count_private=true" height="160"/> <img src="https://streak-stats.demolab.com?user=vaishnavdounde65&theme=tokyonight" height="160"/> </div>
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vaishnavdounde65&theme=dracula&margin-w=15&no-bg=true&title=Stars,Commits,Followers,Repositories,PullRequest" /> </p>
-🕵️‍♂️ Git Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavdounde65&theme=react-dark&area=true&hide_border=true" /> </p>
-⚡ Random Things
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavx&theme=react-dark&area=true&hide_border=true" />
+</p>
 
-    🐈 Cats? Yes. Forever yes.
+---
 
-    🧠 Most creative at 2:00 AM.
+<h2 align="center">🤝 Connect with Me</h2>
 
-    🔄 Rewrite > Copy-paste. Every time.
-
-    😴 Sleep is a myth. (JK… maybe)
-
-🧩 Quote I Live By
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" /> </p>
-🤝 Connect with Me
-<p align="center"> <a href="https://discord.com/users/842978764690030593"> <img src="https://lanyard.cnrad.dev/api/842978764690030593?theme=dark&bg=1e1e2e&animated=true&borderRadius=20px" /> </a> </p>
+<p align="center">
+  <a href="https://discord.com/users/842978764690030593">
+    <img src="https://lanyard.cnrad.dev/api/842978764690030593?theme=dark&bg=1e1e2e&animated=true&borderRadius=20px" />
+  </a>
+</p>
