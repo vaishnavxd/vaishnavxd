@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4BC9F3&center=true&vCenter=true&width=500&lines=Hey+I'm+Vaishnav!;Full-Stack+Developer;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4BC9F3&center=true&vCenter=true&width=500&lines=Hey+I'm+Vaishnav!;Developer;Always+Learning+%26+Building" />
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 <h2 align="center">🧠 About Me</h2>
 
-- Full-stack developer focused on building reliable products  
+- Developer focused on building reliable products  
 - Self-taught, fast-learning, and obsessed with clean execution  
 - Exploring backend systems, automation, bots, and scalable web apps  
 - Interested in efficient engineering, design consistency, and smart tooling  
