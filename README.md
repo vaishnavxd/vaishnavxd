@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Vaishnav**, a first-year Computer Science & Engineering student at **MIT Art, Design and Technology University**.
+I'm **Vaishnav**, a first-year Computer Science & Engineering student.
 
 I enjoy building software and experimenting with ideas across web development, automation, and AI/ML. I'm currently spending most of my time learning **C++ and Data Structures & Algorithms**, while continuing to build projects with Python and web technologies.
 
